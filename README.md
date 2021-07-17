@@ -1,2 +1,2 @@
 # calculator
-#it does not have full code
+#go to: https://codesandbox.io/s/nifty-glitter-yht50
